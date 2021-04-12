@@ -263,3 +263,15 @@ TSWLatexianTemp*
 
 # standalone packages
 *.sta
+
+.idea/
+
+*.v2
+
+MachineLearning_mmf_2021/logs/
+
+*.gz
+
+*.pb
+
+venv/
